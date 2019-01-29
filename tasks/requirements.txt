@@ -2,7 +2,7 @@ luigi
 numpy
 pandas
 h5py
-PyYAML==3.12
+pyyaml>=4.2b1
 beautifulsoup4==4.5.3
 elasticsearch==5.1.0
 certifi==2016.9.26
